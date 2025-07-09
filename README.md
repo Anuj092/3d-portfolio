@@ -1,8 +1,4 @@
-<div align="center">
-  <br />
-      <img src="public/images/readme.png" alt="Project Banner">
-    </a>
-  <br />
+
 
   <div>
     <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
